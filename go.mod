@@ -1,4 +1,4 @@
-module github.com/officeadminsorted/oauth2
+module github.com/officeadminsorted/oauth2/v5
 
 go 1.13
 
