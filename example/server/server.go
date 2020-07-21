@@ -9,12 +9,12 @@ import (
 	"time"
 
 	"github.com/dgrijalva/jwt-go"
-	"github.com/officeadminsorted/oauth2/v4/errors"
-	"github.com/officeadminsorted/oauth2/v4/generates"
-	"github.com/officeadminsorted/oauth2/v4/manage"
-	"github.com/officeadminsorted/oauth2/v4/models"
-	"github.com/officeadminsorted/oauth2/v4/server"
-	"github.com/officeadminsorted/oauth2/v4/store"
+	"github.com/officeadminsorted/oauth2/errors"
+	"github.com/officeadminsorted/oauth2/generates"
+	"github.com/officeadminsorted/oauth2/manage"
+	"github.com/officeadminsorted/oauth2/models"
+	"github.com/officeadminsorted/oauth2/server"
+	"github.com/officeadminsorted/oauth2/store"
 	"github.com/go-session/session"
 )
 

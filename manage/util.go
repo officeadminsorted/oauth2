@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/officeadminsorted/oauth2/v4/errors"
+	"github.com/officeadminsorted/oauth2/errors"
 )
 
 type (

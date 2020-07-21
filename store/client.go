@@ -5,7 +5,7 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/officeadminsorted/oauth2/v4"
+	"github.com/officeadminsorted/oauth2"
 )
 
 // NewClientStore create client store

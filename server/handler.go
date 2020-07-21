@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/officeadminsorted/oauth2/v4"
-	"github.com/officeadminsorted/oauth2/v4/errors"
+	"github.com/officeadminsorted/oauth2"
+	"github.com/officeadminsorted/oauth2/errors"
 )
 
 type (

@@ -3,9 +3,9 @@
 //     package main
 //     import (
 //         "net/http"
-//         "github.com/officeadminsorted/oauth2/v4/manage"
-//         "github.com/officeadminsorted/oauth2/v4/server"
-//         "github.com/officeadminsorted/oauth2/v4/store"
+//         "github.com/officeadminsorted/oauth2/manage"
+//         "github.com/officeadminsorted/oauth2/server"
+//         "github.com/officeadminsorted/oauth2/store"
 //     )
 //     func main() {
 //         manager := manage.NewDefaultManager()

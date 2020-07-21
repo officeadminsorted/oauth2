@@ -5,10 +5,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/officeadminsorted/oauth2/v4"
-	"github.com/officeadminsorted/oauth2/v4/manage"
-	"github.com/officeadminsorted/oauth2/v4/models"
-	"github.com/officeadminsorted/oauth2/v4/store"
+	"github.com/officeadminsorted/oauth2"
+	"github.com/officeadminsorted/oauth2/manage"
+	"github.com/officeadminsorted/oauth2/models"
+	"github.com/officeadminsorted/oauth2/store"
 
 	. "github.com/smartystreets/goconvey/convey"
 )
