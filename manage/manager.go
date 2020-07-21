@@ -4,10 +4,10 @@ import (
 	"context"
 	"time"
 
-	"github.com/officeadminsorted/oauth2"
-	"github.com/officeadminsorted/oauth2/errors"
-	"github.com/officeadminsorted/oauth2/generates"
-	"github.com/officeadminsorted/oauth2/models"
+	"github.com/officeadminsorted/oauth2/v5"
+	"github.com/officeadminsorted/oauth2/v5/errors"
+	"github.com/officeadminsorted/oauth2/v5/generates"
+	"github.com/officeadminsorted/oauth2/v5/models"
 )
 
 // NewDefaultManager create to default authorization management instance

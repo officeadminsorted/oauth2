@@ -6,7 +6,7 @@ import (
 	"encoding/base64"
 	"strings"
 
-	"github.com/officeadminsorted/oauth2"
+	"github.com/officeadminsorted/oauth2/v5"
 	"github.com/google/uuid"
 )
 

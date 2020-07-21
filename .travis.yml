@@ -1,6 +1,6 @@
 language: go
 sudo: false
-go_import_path: github.com/officeadminsorted/oauth2
+go_import_path: github.com/officeadminsorted/oauth2/v5
 go:
   - 1.13
 before_install:

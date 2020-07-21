@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/officeadminsorted/oauth2"
-	"github.com/officeadminsorted/oauth2/models"
+	"github.com/officeadminsorted/oauth2/v5"
+	"github.com/officeadminsorted/oauth2/v5/models"
 	"github.com/google/uuid"
 	"github.com/tidwall/buntdb"
 )

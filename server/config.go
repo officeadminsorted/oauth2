@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/officeadminsorted/oauth2"
+	"github.com/officeadminsorted/oauth2/v5"
 )
 
 // Config configuration parameters

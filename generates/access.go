@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/officeadminsorted/oauth2"
+	"github.com/officeadminsorted/v5/oauth2"
 	"github.com/google/uuid"
 )
 

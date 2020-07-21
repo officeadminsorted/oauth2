@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/officeadminsorted/oauth2"
-	"github.com/officeadminsorted/oauth2/errors"
+	"github.com/officeadminsorted/oauth2/v5"
+	"github.com/officeadminsorted/oauth2/v5/errors"
 )
 
 // NewDefaultServer create a default authorization server

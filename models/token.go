@@ -3,7 +3,7 @@ package models
 import (
 	"time"
 
-	"github.com/officeadminsorted/oauth2"
+	"github.com/officeadminsorted/oauth2/v5"
 )
 
 // NewToken create to token model instance

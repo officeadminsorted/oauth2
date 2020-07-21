@@ -3,7 +3,7 @@ package manage_test
 import (
 	"testing"
 
-	"github.com/officeadminsorted/oauth2/manage"
+	"github.com/officeadminsorted/oauth2/v5/manage"
 
 	. "github.com/smartystreets/goconvey/convey"
 )

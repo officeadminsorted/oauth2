@@ -1,7 +1,7 @@
 package server
 
 import (
-	"github.com/officeadminsorted/oauth2"
+	"github.com/officeadminsorted/oauth2/v5"
 )
 
 // SetTokenType token type
