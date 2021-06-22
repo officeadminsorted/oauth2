@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/officeadminsorted/v5/oauth2"
 	"github.com/google/uuid"
+	"github.com/officeadminsorted/oauth2/v5"
 )
 
 // NewAccessGenerate create to generate the access token instance
